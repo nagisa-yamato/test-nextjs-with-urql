@@ -1,3 +1,15 @@
+# なにこれ
+
+[urql の Next.js + getServerSideProps 使用例](https://formidable.com/open-source/urql/docs/advanced/server-side-rendering/#ssr-with-getstaticprops-or-getserversideprops) に沿ったもの
+
+\+
+
+- graphql-codegen
+- graphql-eslint
+- @typescript-eslint
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
